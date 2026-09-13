@@ -1,0 +1,28 @@
+{
+  "name": "KodiArabi Repository",
+  "version": "1.0.0",
+  "description": "المستودع الرسمي لإضافات KodiArabi",
+  "addons": [
+    {
+      "id": "kodi-arabi-demo-web",
+      "name": "صفحة KodiArabi التجريبية",
+      "description": "إضافة ويب تجريبية لاختبار نظام المستودعات.",
+      "type": "web",
+      "url": "https://example.com/"
+    },
+    {
+      "id": "kodi-arabi-demo-m3u",
+      "name": "قائمة M3U تجريبية",
+      "description": "إضافة M3U تجريبية لاختبار تحميل قوائم IPTV.",
+      "type": "m3u",
+      "url": "https://example.com/channels.m3u"
+    },
+    {
+      "id": "kodi-arabi-demo-live",
+      "name": "بث مباشر تجريبي",
+      "description": "إضافة بث مباشر تجريبية لاختبار مشغل KodiArabi.",
+      "type": "direct",
+      "url": "https://example.com/live.m3u8"
+    }
+  ]
+}
