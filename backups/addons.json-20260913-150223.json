@@ -23,13 +23,6 @@
       "description": "إضافة بث مباشر تجريبية لاختبار مشغل KodiArabi.",
       "type": "direct",
       "url": "https://example.com/live.m3u8"
-    },
-    {
-      "id": "iptv-org-algeria",
-      "name": "القنوات الجزائرية 🇩🇿",
-      "description": "قائمة M3U عامة للقنوات الجزائرية المتاحة عبر IPTV-org.",
-      "type": "m3u",
-      "url": "https://iptv-org.github.io/iptv/countries/dz.m3u"
     }
   ]
 }
