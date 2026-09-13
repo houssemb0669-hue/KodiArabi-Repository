@@ -8,28 +8,53 @@
       "name": "صفحة KodiArabi التجريبية",
       "description": "إضافة ويب تجريبية لاختبار نظام المستودعات.",
       "type": "web",
-      "url": "https://example.com/"
+      "url": "https://example.com/",
+      "category": "web",
+      "country": "",
+      "language": "ar",
+      "icon": "",
+      "source": "https://example.com/",
+      "status": "demo"
     },
     {
       "id": "kodi-arabi-demo-m3u",
       "name": "قائمة M3U تجريبية",
       "description": "إضافة M3U تجريبية لاختبار تحميل قوائم IPTV.",
       "type": "m3u",
-      "url": "https://example.com/channels.m3u"
+      "url": "https://example.com/channels.m3u",
+      "category": "live-tv",
+      "country": "",
+      "language": "ar",
+      "icon": "",
+      "source": "https://example.com/channels.m3u",
+      "status": "demo"
     },
     {
       "id": "kodi-arabi-demo-live",
       "name": "بث مباشر تجريبي",
       "description": "إضافة بث مباشر تجريبية لاختبار مشغل KodiArabi.",
       "type": "direct",
-      "url": "https://example.com/live.m3u8"
+      "url": "https://example.com/live.m3u8",
+      "category": "live-tv",
+      "country": "",
+      "language": "ar",
+      "icon": "",
+      "source": "https://example.com/live.m3u8",
+      "status": "demo"
     },
     {
       "id": "iptv-org-algeria",
       "name": "القنوات الجزائرية 🇩🇿",
       "description": "قائمة M3U عامة للقنوات الجزائرية المتاحة عبر IPTV-org.",
       "type": "m3u",
-      "url": "https://iptv-org.github.io/iptv/countries/dz.m3u"
+      "url": "https://iptv-org.github.io/iptv/countries/dz.m3u",
+      "category": "live-tv",
+      "country": "DZ",
+      "language": "ar",
+      "icon": "",
+      "source": "https://github.com/iptv-org/iptv",
+      "status": "active"
     }
-  ]
+  ],
+  "schema_version": "2.0.0"
 }
